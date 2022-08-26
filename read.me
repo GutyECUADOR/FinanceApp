@@ -1,0 +1,19 @@
+
+
+yarn install
+
+npx react-native run-android
+
+Task :app:validateSigningDebug FAILED
+    You can generate the debug keystore by running this command in the android/app/ 
+    directory: keytool -genkey -v -keystore debug.keystore -storepass android -alias androiddebugkey -keypass android -keyalg RSA -keysize 2048 -validity 10000
+
+eslint prettier/prettier error
+
+    module.exports = {
+    root: true,
+    extends: '@react-native-community',
+    rules: {
+        'prettier/prettier': 0,
+    },
+    };

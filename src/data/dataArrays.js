@@ -4,8 +4,8 @@ export const cashArray = [
     id: 0,
     icon:
       'https://theme.zdassets.com/theme_assets/586236/49e4904c4910a8ebf63b67d41f9b98b6b0933275.png',
-    title: 'WEALTHFRONT',
-    text: 'Personal Savings',
+    title: 'Inverion a 12%',
+    text: 'Jose Gutiérrez',
     money: '$9,275'
   },
   {
